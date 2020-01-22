@@ -1,5 +1,5 @@
 # Perturbated examples in CNN 
-## Understanding the features a CNN uses to perform a classification between Caucasian and African-American faces by creating perturbated examples
+### Understanding the features a CNN uses to perform a classification between Caucasian and African-American faces by creating perturbated examples
 
 Tilburg University Course - Deep Learning (CS&AI) with [Eric Postma](https://scholar.google.com/citations?user=EpsyWjIAAAAJ&hl=es) and [Sebastian Olier](https://scholar.google.it/citations?user=bc8UtIoAAAAJ&hl=en)
 
